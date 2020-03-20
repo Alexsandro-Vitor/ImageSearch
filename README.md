@@ -1,2 +1,2 @@
 # ImageSearch
-An tool to find similar images
+A tool to find similar images
